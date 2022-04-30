@@ -10,7 +10,8 @@ namespace InzBackEnd.Entities.Models
 {
     public class Mail : IContent
     {
-        public int Id { get; set; }        
+        public int Id { get; set; }
+        [Required]
         public string UserName { get; set; }
         [Required]
         public string Contents { get; set; }

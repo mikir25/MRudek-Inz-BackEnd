@@ -6,7 +6,6 @@ D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\InzBackEnd.deps.json
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\InzBackEnd.runtimeconfig.json
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\InzBackEnd.runtimeconfig.dev.json
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\InzBackEnd.dll
-D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\ref\InzBackEnd.dll
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\InzBackEnd.pdb
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\InzBackEnd.Views.dll
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\bin\Release\net5.0\AutoMapper.dll
@@ -61,7 +60,6 @@ D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.csproj.CoreC
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.MvcApplicationPartsAssemblyInfo.cs
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.MvcApplicationPartsAssemblyInfo.cache
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\staticwebassets\InzBackEnd.StaticWebAssets.Manifest.cache
-D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\staticwebassets\InzBackEnd.StaticWebAssets.xml
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\scopedcss\bundle\InzBackEnd.styles.css
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.RazorTargetAssemblyInfo.cache
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.csproj.CopyComplete
@@ -69,3 +67,4 @@ D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.dll
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\ref\InzBackEnd.dll
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.pdb
 D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\InzBackEnd.genruntimeconfig.cache
+D:\Inż-BackEnd\InzBackEnd\InzBackEnd\obj\Release\net5.0\refint\InzBackEnd.dll
